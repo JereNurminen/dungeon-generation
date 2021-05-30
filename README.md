@@ -13,7 +13,7 @@ Another missing thing is any items, enemies or other points of interest besides 
 
 ## Examples
 
-Example screenshots, using [this](https://jnur.itch.io/top-down-dungeon-tiles) tile set also by me@
+Example screenshots, using [this](https://jnur.itch.io/top-down-dungeon-tiles) tile set also by me:
 ![image](https://user-images.githubusercontent.com/17700429/120118540-c4285000-c19b-11eb-9f70-18508bd7ec5d.png)
 ![image](https://user-images.githubusercontent.com/17700429/120118552-d86c4d00-c19b-11eb-956a-fd575c6125b7.png)
 
